@@ -1,0 +1,2 @@
+country,year,iso_code,population,gdp,primary_energy_consumption,energy_per_capita,renewables_electricity,renewables_share_energy,fossil_share_energy,oil_production,gas_production,entity_type
+World,2021,,1000,10000,500,0.5,100,20,80,10,20,aggregate

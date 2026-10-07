@@ -1,0 +1,7 @@
+{
+  "url": "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv",
+  "downloaded_at_utc": "2026-10-07T15:07:43.969793+00:00",
+  "file": "data/raw/owid-energy-data.csv",
+  "sha256": "266f2e2baad7975351bc9bb4aa061d22b1da9fe4c47d51d2ac6071e01e171f76",
+  "reused_existing_file": false
+}

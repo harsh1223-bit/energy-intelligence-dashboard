@@ -1,0 +1,17 @@
+column,present,dtype,non_null,missing_pct
+country,True,object,23377,0.0
+year,True,int64,23377,0.0
+iso_code,True,object,17265,26.15
+population,True,float64,18894,19.18
+gdp,True,float64,11780,49.61
+primary_energy_consumption,True,float64,13255,43.3
+energy_per_capita,True,float64,11086,52.58
+electricity_generation,True,float64,7913,66.15
+renewables_electricity,True,float64,9698,58.51
+solar_electricity,True,float64,9715,58.44
+wind_electricity,True,float64,9507,59.33
+renewables_share_energy,True,float64,6379,72.71
+fossil_share_energy,True,float64,6379,72.71
+oil_production,True,float64,17992,23.04
+gas_production,True,float64,17251,26.21
+greenhouse_gas_emissions,True,float64,6028,74.21
